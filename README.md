@@ -9,4 +9,4 @@ Video Game Inventory System has a working inventory system for a text-based game
 
 My React project source code can be found here: https://github.com/js075616/EldenRingCalculator with the hosted website here: https://js075616.github.io/EldenRingCalculator/
 
-My MERN full stack "gacha" summon simulator can be found here: https://github.com/js075616/JSGachaSim, and deployed on Heroku here: https://jsgachasim.herokuapp.com/
+My MERN full stack "gacha" summon simulator can be found here: https://github.com/js075616/JSGachaSim
